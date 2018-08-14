@@ -1,0 +1,110 @@
+h1{font-size:2.3em; position:absolute; right:27%; top:25%; text-shadow: 1.8px 1.8px grey;}
+h2{font-size:26px; text-align:center; text-shadow: 1.4px 1.4px black;}
+h3{font-size:22px; text-align:center; text-shadow: 1.4px 1.4px black;}h4{font-size:18px; text-align:center; text-shadow: 1.4px 1.4px black;}
+html,body{font-family:Verdana;font-size:15px;line-height:1.5; color:white;} 
+html{overflow-x:hidden; background-image: url("studente.jpg"); background-repeat: no-repeat; background-size:cover; background-attachment: fixed;}
+html background{ opacity:0.6;}
+label{float:left;}
+fieldset{margin: 10%;}
+
+header {
+	position:absolute;
+	top:0%
+    padding: 1em;
+    background-color: black;
+	height:10%;
+	width: 98%;
+}
+
+header h1{font-size:2.3em; position:absolute; right:37%; top:0%; text-shadow: 1.8px 1.8px grey;}
+
+header img {
+	
+	width:12%;
+	height:100%;
+	float: left;
+}
+
+ .tab {
+	 position:absolute;
+	top: 57%;
+	left:20%; 
+	background-color: #333;
+}
+
+.tab h5{
+	text-align:center;
+	font-family:Verdana;
+}
+
+
+
+ .footer { position: fixed;
+	bottom: 0;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+.login {
+	position:absolute;
+    right: 35%;
+	top:30%;
+    width: 30%;
+    border: 3px solid white;
+	border-radius:3%;
+    padding: 0.4%;
+	font-size:1.3em; text-shadow: 1.6px 1.6px black;  
+}
+
+.butt{ width: 75px;  height: 35px; font-size:20px;}
+.butt1{ width: 150px;  height: 35px; font-size:20px;}
+.textin{width: 45%;  height: 25%; font-size:15px; margin-right:3%;}
+
+
+.reg {
+  position: absolute;
+     right: 35%;
+	top:24%;
+    width: 35%;
+	height: 70%;
+    border: 3px solid white;
+	border-radius:3%;
+    padding: 0.4%;
+	font-size:1.2em; text-shadow: 1.6px 1.6px black; 
+}
+
+.areaRis{
+position:absolute;
+    right: 35%;
+	top:42%;
+    width: 22%;
+    border: 3px solid white;
+	border-radius:3%;
+    padding: 0.4%;
+	font-size:1.6em; text-shadow: 1.6px 1.6px black; 
+	
+}
+
+.pos{color: green; font-size:0.7em; text-shadow: 1px 1px black;}
+.neg{color: red; font-size:0.7em; text-shadow: 1px 1px black;}
+
+
